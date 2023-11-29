@@ -1,3 +1,4 @@
+import argparse
 import logging
 import sys
 import yaml
@@ -15,5 +16,5 @@ from pathlib import Path
 
 
 
-if __name__ == "__main__"
+if __name__ == "__main__":
   main()
