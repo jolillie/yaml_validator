@@ -1,2 +1,2 @@
-# yaml_validator
-Creating a YAML Validator
+# Description
+Create a simple YAML Validator
